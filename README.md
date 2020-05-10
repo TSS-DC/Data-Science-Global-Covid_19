@@ -22,3 +22,10 @@ There are animated map graphs, to view run the code in a python compiler.</i>
   * It is a high-level, declarative charting library. plotly.js ships with over 30 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.
 - folium
   *  Manipulate your data in Python, then visualize it in a Leaflet map
+  
+ **Some projects images**
+  
+ <img src= "https://github.com/TSS-DC/Images-for-readmem/blob/master/Cases%20and%20Deaths%20covid19.png?raw=true" width=1100>
+  
+  
+  
