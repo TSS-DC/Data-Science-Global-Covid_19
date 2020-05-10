@@ -2,6 +2,14 @@
   
 # Data Science Global Study
 
+<b>Objective</b>
+
+<b><i>Cases over time / Deaths over time</b></em>
+
+
+<i>This report shows the advancement of Covid19 viruses around the world through various graphs.
+There are animated map graphs, to view run the code in a python compiler.</i>
+
 **Libraries used**
 
 - pandas
