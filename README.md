@@ -23,9 +23,19 @@ There are animated map graphs, to view run the code in a python compiler.</i>
 - folium
   *  Manipulate your data in Python, then visualize it in a Leaflet map
   
+  
+  
  **Some projects images**
   
  <img src= "https://github.com/TSS-DC/Images-for-readmem/blob/master/Cases%20and%20Deaths%20covid19.png?raw=true" width=1100>
+ 
+ 
+ ## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
   
   
   
